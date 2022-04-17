@@ -1,0 +1,6 @@
+tensorflow-gpu==2.8.0
+matplotlib==3.5.1
+scikit-learn==1.0.2
+numpy==1.22.3
+notebook==6.4.10
+jupyterthemes==0.20.0
